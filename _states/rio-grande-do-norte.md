@@ -125,6 +125,9 @@ title: 'Rio Grande do Norte'
 
 -  **[Portal da Transparência do Município de Ceará Mirim](http://topdown.servehttp.com:8080/Transparencia/pmcearamirim/)**: http://topdown.servehttp.com:8080/Transparencia/pmcearamirim/
 
+-  **[Câmara Municipal do Municipio de Ceará Mirim](https://www.cearamirim.rn.leg.br/)**: https://www.cearamirim.rn.leg.br/
+
+-  **[Dados Abertos do Municipio de Ceará Mirim](https://www.gove.digital/dados-abertos/#/ceara-mirim-rn/geral)**: https://www.gove.digital/dados-abertos/#/ceara-mirim-rn/geral
 ### Cerro Corá
 
 -  **[Portal da Transparência do Município de Cerro Corá](https://www.cerrocora.rn.gov.br/acessoainformacao.php)**: https://www.cerrocora.rn.gov.br/acessoainformacao.php
@@ -165,7 +168,12 @@ title: 'Rio Grande do Norte'
 
 -  **[Portal da Transparência do Município de Extremoz](http://extremoz.rn.gov.br/portal-da-transparencia/)**: http://extremoz.rn.gov.br/portal-da-transparencia/
 
+-  **[Câmara Municipal do Municipio de Extremoz](http://camaramunicipaldeextremoz.rn.gov.br/)**: http://camaramunicipaldeextremoz.rn.gov.br/
+
+-  **[Dados Abertos do Municipio de Extremoz](https://www.gove.digital/dados-abertos/#/extremoz-rn/geral)**: https://www.gove.digital/dados-abertos/#/extremoz-rn/geral
+
 ### Felipe Guerra
+
 
 -  **[Portal da Transparência do Município de Felipe Guerra](https://www.felipeguerra.rn.gov.br/contas-publicas)**: https://www.felipeguerra.rn.gov.br/contas-publicas
 
@@ -353,11 +361,20 @@ title: 'Rio Grande do Norte'
 
 -  **[Portal da Transparência do Município de Mossoró](http://187.19.199.132/transparencia/)**: http://187.19.199.132/transparencia/
 
+-  **[Câmara Municipal do Municipio de Mossoró](https://www.mossoro.rn.leg.br/)**: https://www.mossoro.rn.leg.br/
+
+-  **[Dados Abertos do Municipio de Mossoró](https://www.gove.digital/dados-abertos/#/mossoro-rn/geral)**: https://www.gove.digital/dados-abertos/#/mossoro-rn/geral
+
 ### Natal
 
 -  **[Portal da Transparência do Município de Natal](https://natal.rn.gov.br/transparencia/)**: https://natal.rn.gov.br/transparencia/
 
 -  **[Portal da Transparência da Mobilidade Urbana de Natal](http://dados.natal.br/)**: http://dados.natal.br/
+
+-  **[Câmara Municipal do Municipio de Natal](https://www.cmnat.rn.gov.br/)**: https://www.cmnat.rn.gov.br/
+
+-  **[Dados Abertos do Municipio de Natal](https://www.gove.digital/dados-abertos/#/natal-rn/geral)**: https://www.gove.digital/dados-abertos/#/natal-rn/geral
+
 
 ### Nísia Floresta
 
