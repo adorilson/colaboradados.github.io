@@ -14,3 +14,7 @@ tags:
 ## PORTAL BRASILEIRO DE DADOS ABERTOS
 
 - **[Defesa e Segurança Pública:](http://dados.gov.br/dataset?groups=defesa-seguranca)**: http://dados.gov.br/dataset?groups=defesa-seguranca
+ http://www4.planalto.gov.br/legislacao/
+ ## LEGISLAÇÃO
+
+- **[Legislação:]( http://www4.planalto.gov.br/legislacao/)**:  http://www4.planalto.gov.br/legislacao/
